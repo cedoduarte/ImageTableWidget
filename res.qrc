@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Chrysanthemum.jpg</file>
+        <file>Desert.jpg</file>
+        <file>Hydrangeas.jpg</file>
+        <file>Jellyfish.jpg</file>
+        <file>Koala.jpg</file>
+        <file>Lighthouse.jpg</file>
+        <file>Tulips.jpg</file>
+    </qresource>
+</RCC>
